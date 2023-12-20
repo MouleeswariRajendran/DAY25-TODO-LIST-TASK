@@ -1,0 +1,60 @@
+
+
+.heading{
+  margin-top: 30px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: green;
+
+}
+
+h4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: 0.5px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.todo-list{
+  margin-top: 10px;
+  padding: 20px;
+  background-color: lightgreen;
+}
+
+
+.dropdown-toggle{
+  margin-left: 10px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+
+.text{
+  font-size: 22px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+.optional{
+  display: flex;
+  justify-content: end;
+ 
+
+}
+.delete{
+  margin-right: 10px;
+  padding: 30px;
+}
+
+.edit{
+  padding: 30px;
+}
+
+.head{
+  font-family: Arial, Helvetica, sans-serif;
+}
